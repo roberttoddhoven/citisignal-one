@@ -1,5 +1,6 @@
 .block.hero {
   --heading-1-size: 36px;
+  border:1px solid red;
 }
 
 /* Container Styles */
