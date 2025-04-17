@@ -1,5 +1,5 @@
 .block.hero {
-  --heading-1-size: 36px;
+  --heading-1-size: 66px;
 }
 
 /* Container Styles */
@@ -21,7 +21,7 @@ main .hero-container > div {
   background: linear-gradient(180deg, var(--primary-color) 30%, var(--secondary-color) 100%);
   border-radius: var(--border-radius);
   box-sizing: border-box;
-  color: red;
+  color: #fff;
   z-index: 0;
   box-shadow: var(--box-shadow);
   border: var(--border);
