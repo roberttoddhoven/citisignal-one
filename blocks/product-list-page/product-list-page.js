@@ -51,7 +51,7 @@ export default async function decorate(block) {
       customerGroup: await getConfigValue('commerce-customer-group'),
     },
     route: ({ sku }) => {
-      const base = urlpath === 'plans' ? '/products/plan/' : '/products/';
+      const base = urlpath === 'plans' ? '/content/rth-citisignal-one/us/en/products/plan/' : '/content/rth-citisignal-one/us/en/products/';
       return `${base}${sku}`;
     },
   };
