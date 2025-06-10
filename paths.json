@@ -1,6 +1,5 @@
 {
     "mappings": [
-      "/content/rth-citisignal-one/:/",
       "/content/rth-citisignal-one/configuration:/.helix/config.json",
       "/content/rth-citisignal-one/metadata:/metadata.json",
       "/content/rth-citisignal-one/configs:/configs.json",
