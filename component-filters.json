@@ -10,6 +10,7 @@
   {
     "id": "section-marketing",
     "components": [
+      "todds",
       "text",
       "image",
       "button",
@@ -33,6 +34,7 @@
   {
     "id": "section",
     "components": [
+      "todds",
       "text",
       "image",
       "button",
